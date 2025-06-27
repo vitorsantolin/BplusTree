@@ -115,6 +115,10 @@ Complexidade das Operações
 
 ![Image](https://github.com/user-attachments/assets/6deefad0-e438-4bc5-890a-ed122e44b6aa)
 
+
+
+![Image](https://github.com/user-attachments/assets/a735329a-3f5d-4440-9b9e-983e4a391789)
+
 Referências : 
 
 https://www.geeksforgeeks.org/dsa/b-tree-in-python-2/#key-characteristics-of-b-trees
