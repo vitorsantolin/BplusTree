@@ -123,9 +123,9 @@ Referências :
 
 https://www.geeksforgeeks.org/dsa/b-tree-in-python-2/#key-characteristics-of-b-trees
 https://www.programiz.com/dsa/b-plus-tree
-B+ tree index
-B+ Tree
-b-tree-java/BTreeNode.java at main · angelozero/b-tree-java
+[B+ tree index](https://www.teach.cs.toronto.edu/~csc443h/fall/posted_practice/btree-index.html)
+[B+ Tree](https://github.com/angelozero/b-tree-java/blob/main/BTreeNode.java)
+[b-tree-java/BTreeNode.java at main · angelozero/b-tree-java](https://www.baeldung.com/cs/b-tree-data-structure)
 B-tree Data Structure | Baeldung on Computer Science
 Introduction of B+ Tree - GeeksforGeeks
 B-trees - CS Notes
