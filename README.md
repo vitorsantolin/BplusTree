@@ -129,7 +129,5 @@ b-tree-java/BTreeNode.java at main · angelozero/b-tree-java
 B-tree Data Structure | Baeldung on Computer Science
 Introduction of B+ Tree - GeeksforGeeks
 B-trees - CS Notes
-Mastering the B-Tree Data Structure: An In-Depth Practical Guide - Guru Software
-https://www.bing.com/ck/a?!&&p=3c666c1d8267edfc366632bb3ab7e6ba48c13e6befb9d4fbe93cb5cc01e4a070JmltdHM9MTc1MDg5NjAwMA&ptn=3&ver=2&hsh=4&fclid=3a13766c-0c88-698d-1f24-63850d886898&psq=How+do+I+simulate+an+interactive+terminal+like+the+prompt&u=a1aHR0cHM6Ly9naXRodWIuY29tL215cXVpdGUvaW50ZXJhY3RpdmUtdGVybWluYWw&ntb=1 
 B Trees and B+ Trees. When it comes to indexing and efficient… | by AkashSDas | Medium
 
