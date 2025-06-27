@@ -113,6 +113,7 @@ pegar_todas_chaves() :
 
 Complexidade das Operações
 
+![Image](https://github.com/user-attachments/assets/6deefad0-e438-4bc5-890a-ed122e44b6aa)
 
 Referências : 
 
