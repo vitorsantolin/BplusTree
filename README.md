@@ -126,8 +126,8 @@ https://www.programiz.com/dsa/b-plus-tree
 [B+ tree index](https://www.teach.cs.toronto.edu/~csc443h/fall/posted_practice/btree-index.html)
 [B+ Tree](https://github.com/angelozero/b-tree-java/blob/main/BTreeNode.java)
 [b-tree-java/BTreeNode.java at main · angelozero/b-tree-java](https://www.baeldung.com/cs/b-tree-data-structure)
-B-tree Data Structure | Baeldung on Computer Science
-Introduction of B+ Tree - GeeksforGeeks
-B-trees - CS Notes
-B Trees and B+ Trees. When it comes to indexing and efficient… | by AkashSDas | Medium
+[B-tree Data Structure | Baeldung on Computer Science](https://notes.eddyerburgh.me/data-structures-and-algorithms/data-structures/b-trees)
+[Introduction of B+ Tree - GeeksforGeeks](https://www.gurusoftware.com/mastering-the-b-tree-data-structure-an-in-depth-practical-guide/)
+[B-trees - CS Notes](https://medium.com/@akashsdas_dev/b-trees-and-b-trees-682d363df1f7)
+
 
